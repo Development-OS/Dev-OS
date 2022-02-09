@@ -1,12 +1,9 @@
-# Chrome-Rewrite
-This is just a my own version of chrome that will not be public get the real chrome [here](https://www.google.com/chrome/).
+# Dev OS
+This OS is a Linux/Android Based OS This will take a long time to finish.
 
 
 # SOME CODE TAKEN FORM [AOSP](https://github.com/aosp-mirror)
-this will never have a release please dont not ask about one!!
 
-
-## SECURITY
 
 
 # Security Policy
