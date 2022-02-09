@@ -1,6 +1,5 @@
 /*
- * Copyright (C) 2016 The Android Open Source Project
- *
+ * 2022 Jackson Development
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
@@ -69,6 +68,7 @@ public class WifiAwareSession implements AutoCloseable {
      * <p>
      * An application may re-attach after a destroy using
      * {@link WifiAwareManager#attach(AttachCallback, Handler)} .
+     * to change a hotspot the current Wi-Fi connection must be destroyed.
      */
     @Override
     public void close() {
