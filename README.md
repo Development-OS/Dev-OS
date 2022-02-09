@@ -22,4 +22,4 @@ this will never have a release please dont not ask about one!!
 
 ## Reporting a Vulnerability
 
-email us @ security@jacksondev.com
+email us @ security@jacksondev.com 
