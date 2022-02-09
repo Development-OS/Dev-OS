@@ -16,7 +16,7 @@ this will never have a release please dont not ask about one!!
 |   Version  |      Supported     |
 | -------    | ------------------ |
 | 0.0.3(BETA)| :white_check_mark: |
-| 0.0.3      | :x:                |
+| 0.0.3      | :white_check_mark: |
 | 0.0.2      | :white_check_mark: |
 | 0.0.1      | :x:                |
 
