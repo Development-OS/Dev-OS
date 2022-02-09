@@ -141,7 +141,7 @@ public class WifiAwareSession implements AutoCloseable {
      * @param publishConfig The {@link PublishConfig} specifying the
      *            configuration of the requested publish session.
      * @param callback A {@link DiscoverySessionCallback} derived object to be used for
-     *                 session event callbacks.
+     *                  session event callbacks.
      * @param handler The Handler on whose thread to execute the callbacks of the {@code
      * callback} object. If a null is provided then the application's main thread will be used.
      */
