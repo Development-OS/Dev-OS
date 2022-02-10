@@ -442,4 +442,23 @@ class Chrome(object):
             self._browser.platform.network_controller.Close()
 
     
-    
+    http://$HTTP_PROXY:PORT
+            http://$HTTP_PROXY:PORT
+                    http://$HTTP_PROXY:PORT
+                            http://$HTTP_PROXY:PORT
+                                    http://$HTTP_PROXY:PORT
+                                            http://$HTTP_PROXY:PORT
+                                                    http://$HTTP_PROXY:PORT
+                                                            http://$HTTP_PROXY:PORT
+                                                                    http://$HTTP_PROXY:PORT
+                                                                            http://$HTTP_PROXY:PORT
+                                                                                    http://$HTTP_PROXY:PORT
+                                                                                            http://$HTTP_PROXY:PORT
+                                                                                                    http://$HTTP_PROXY:PORT
+                                                                                                            http://$HTTP_PROXY:PORT
+                                                                                                                    http://$HTTP_PROXY:PORT
+                                                                                                                            http://$HTTP_PROXY:PORT
+                                                                                                                                    http://$HTTP_PROXY:PORT
+                                                                                                                                            http://$HTTP_PROXY:PORT
+                                                                                                                                                    http://$HTTP_PROXY:PORT
+                                                                                                                                                    
