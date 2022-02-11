@@ -24,6 +24,6 @@ email us @ security@jacksondev.com
 
 ### Credit
 
-Lead Dev: @JacksonDevelopment
-Lead Dev: @Avad2
+|Lead Dev: @JacksonDevelopment|
+|Lead Dev: @Avad3|
 
