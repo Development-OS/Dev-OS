@@ -20,3 +20,10 @@ This OS is a Linux/Android Based OS This will take a long time to finish.
 ## Reporting a Vulnerability
 
 email us @ security@jacksondev.com 
+
+
+### Credit
+
+Lead Dev: @JacksonDevelopment
+Lead Dev: @Avad2
+
