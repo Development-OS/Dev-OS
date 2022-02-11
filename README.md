@@ -2,7 +2,7 @@
 This OS is a Linux/Android Based OS This will take a long time to finish.
 
 
-# SOME CODE TAKEN FORM [AOSP](https://github.com/aosp-mirror)
+# SOME CODE TAKEN FROM [AOSP](https://github.com/aosp-mirror)
 
 
 
